@@ -1,0 +1,7 @@
+CustomerId,IsPrimaryLocation,Phone,Email,Address
+CUS0001,true,(555) 010-2000,cus0001@example.com,100 Main St Ste 200
+CUS0001,false,(555) 010-2000,cus0001@example.com,250 Oak Ave Bldg 3
+CUS0001,false,(555) 010-2099,cus0001.north@example.com,18 Pine Rd
+CUS0002,true,(555) 010-3000,cus0002@example.com,7 Elm St Unit 4
+CUS0003,false,(555) 010-4000,cus0003@example.com,900 Cedar Blvd Rm 12
+CUS0003,true,(555) 010-4001,cus0003.hq@example.com,1 Market Sq Fl 9

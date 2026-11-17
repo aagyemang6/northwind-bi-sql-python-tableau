@@ -1,0 +1,22 @@
+Changed database context to 'Northwind'.
+--------------------------------------------------
+Test Case 1: YM=199707, MinNetSales=7000
+YearMonth   EmployeeID  Employee First Name Employee Last Name   Total NetSales Total count of orders linked to Rank                
+----------- ----------- ------------------- -------------------- -------------- ------------------------------- --------------------
+     199707           1 Nancy               Davolio                    19530.93                               7                    1
+     199707           2 Andrew              Fuller                      7965.00                               3                    2
+--------------------------------------------------
+Test Case 2: YM=199612, MinNetSales=6440
+YearMonth   EmployeeID  Employee First Name Employee Last Name   Total NetSales Total count of orders linked to Rank                
+----------- ----------- ------------------- -------------------- -------------- ------------------------------- --------------------
+     199612           5 Steven              Buchanan                   10030.82                               3                    1
+     199612           1 Nancy               Davolio                     8446.91                               9                    2
+--------------------------------------------------
+Test Case 3: YM=199803, MinNetSales=7500
+YearMonth   EmployeeID  Employee First Name Employee Last Name   Total NetSales Total count of orders linked to Rank                
+----------- ----------- ------------------- -------------------- -------------- ------------------------------- --------------------
+     199803           1 Nancy               Davolio                    24827.45                              11                    1
+     199803           8 Laura               Callahan                   20728.13                              10                    2
+     199803           3 Janet               Leverling                  16360.12                              12                    3
+     199803           2 Andrew              Fuller                     13937.64                               9                    4
+     199803           4 Margaret            Peacock                     8298.45                              12                    5

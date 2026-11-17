@@ -1,0 +1,14 @@
+{"customers": [
+  {"id": "CUS0001", "loc": {"locations": [
+    {"locations": {"IsPrimary": true, "Phone": "(555) 010-2000", "Email": "cus0001@example.com", "Address1": "100 Main St", "Address2": "Ste 200"}},
+    {"locations": {"IsPrimary": false, "Phone": "(555) 010-2000", "Email": "cus0001@example.com", "Address1": "250 Oak Ave", "Address2": "Bldg 3"}},
+    {"locations": {"IsPrimary": false, "Phone": "(555) 010-2099", "Email": "cus0001.north@example.com", "Address1": "18 Pine Rd", "Address2": ""}}
+  ]}},
+  {"id": "CUS0002", "loc": {"locations": [
+    {"locations": {"IsPrimary": true, "Phone": "(555) 010-3000", "Email": "cus0002@example.com", "Address1": "7 Elm St", "Address2": "Unit 4"}}
+  ]}},
+  {"id": "CUS0003", "loc": {"locations": [
+    {"locations": {"IsPrimary": false, "Phone": "(555) 010-4000", "Email": "cus0003@example.com", "Address1": "900 Cedar Blvd", "Address2": "Rm 12"}},
+    {"locations": {"IsPrimary": true, "Phone": "(555) 010-4001", "Email": "cus0003.hq@example.com", "Address1": "1 Market Sq", "Address2": "Fl 9"}}
+  ]}}
+]}
